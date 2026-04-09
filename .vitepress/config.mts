@@ -4,10 +4,10 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   srcDir: "src",
 
-  base: "/NewDocs/",
+  base: "/nu-document/",
   lang: "ja-JP",
-  title: "MetaDocs",
-  description: "meta-docsへようこそ",
+  title: "nu-document",
+  description: "nu-documentへようこそ",
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
