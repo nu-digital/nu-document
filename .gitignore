@@ -1,0 +1,24 @@
+# node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# VitePress build output
+.vitepress/dist
+docs/.vitepress/dist
+src/.vitepress/dist
+
+# VitePress / Vite cache
+.vitepress/cache
+.vite
+
+# OS / editor
+.DS_Store
+.env
+.env.*
+.idea
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
